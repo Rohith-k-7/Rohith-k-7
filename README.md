@@ -51,27 +51,17 @@
 
 ## 🔥 Featured Projects  
 
-### 🌏 AI-Powered Tokyo Travel Architect  
+### 🌏 AI-Powered trading chart explainer 
 - Multimodal RAG system with semantic retrieval & hallucination control  
-- Gemini + Groq failover architecture  
-- Automatic Google Maps link injection  
-- Hybrid budget reasoning & trip optimization  
+- Gemini + vision architecture    
+- Clearly explaining Trading charts   
 
 ### 🏋️ AI Kinematics – Exercise Trainer & Form Evaluator  
 - Custom YOLOv8 Pose dataset (1100 frames)  
 - Real-time rep counting & posture correction  
 - Audio coaching + performance analytics  
 - Flask + OpenCV deployment  
-
-### 🧾 AI Complaint Resolution & Root Cause Analysis  
-- Transformers + LSTM  
-- Sentiment Analysis + automated response generation  
-- Flask web app with SQLite backend  
-
-### ♻️ Circular Economy AI Tracker  
-- Ridge Regression + Logistic Regression  
-- Circularity score prediction & waste classification  
-- Full-stack ML deployment  
+  
 
 ---
 
@@ -82,7 +72,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexander789400&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohith-k-7&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 
@@ -104,7 +94,7 @@ English | Malayalam
 ## 📊 Contribution Activity  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alexander789400&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohith-k-7&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
