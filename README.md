@@ -8,9 +8,9 @@
 
 ## 👨‍💻 About Me  
 
-💡 Self-motivated and detail-oriented **AI Engineer / Data Scientist** passionate about building scalable, real-world AI systems.  
-⚡ Experienced in developing **end-to-end AI applications**, multimodal RAG systems, and real-time computer vision solutions.  
-🎯 Seeking **Entry-Level AI / Data Science opportunities** to contribute to impactful projects and grow professionally.  
+💡 Passionate and self-driven AI Engineer / Data Scientist with a strong interest in building scalable AI solutions.
+⚡ Hands-on experience in end-to-end AI development, multimodal RAG systems, and real-time computer vision projects.
+🎯 Open to entry-level AI / Data Science opportunities to work on impactful projects and grow professionally. 
 
 ---
 
