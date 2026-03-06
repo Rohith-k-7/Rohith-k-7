@@ -108,7 +108,7 @@ If you're interested in AI, Generative AI, RAG systems, or Computer Vision — l
 ## 📬 Contact Me  
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/alexander-roy-570456191](https://www.linkedin.com/in/rohith-k-5472353a8/)">
+  <a href="[[https://www.linkedin.com/in/alexander-roy-570456191](https://www.linkedin.com/in/rohith-k-5472353a8)](https://www.linkedin.com/in/rohith-k-5472353a8/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Rohith-k-7">
